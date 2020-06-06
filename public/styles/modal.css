@@ -91,3 +91,15 @@
     background-color: #2fb85e;
     cursor: pointer;
 }
+
+/* Abaixo é para o modal point created */
+#modal.point .content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#modal.point .content h1 {
+    color: white;
+    margin-top: 32px;
+}
